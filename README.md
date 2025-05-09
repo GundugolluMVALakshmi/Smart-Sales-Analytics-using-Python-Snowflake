@@ -37,6 +37,11 @@ This project focuses on analyzing regional sales data from Asia, USA, and Europe
    python scripts/load_to_snowflake.py
    ```
 
+### **`requirements.txt` Content**:
+
+```txt
+pandas==2.2.2
+snowflake-connector-python==3.5.0
 **Sample Insights:**
 
 * Total Sales by Region
