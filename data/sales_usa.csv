@@ -1,0 +1,6 @@
+Order_ID,Date,Region,Product,Quantity,Unit_Price,Discount
+U001,2024-05-01,USA,Laptop,4,60000,0.05
+U002,2024-05-02,USA,Smartphone,3,18000,0.1
+U003,2024-05-03,USA,Tablet,2,30000,0
+U004,2024-05-04,USA,Monitor,5,22000,0.1
+U005,2024-05-05,USA,Headphones,10,5500,0.15
