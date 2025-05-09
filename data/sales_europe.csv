@@ -1,0 +1,6 @@
+Order_ID,Date,Region,Product,Quantity,Unit_Price,Discount
+E001,2024-05-01,Europe,Laptop,3,55000,0.1
+E002,2024-05-02,Europe,Smartphone,6,16000,0.05
+E003,2024-05-03,Europe,Tablet,4,27000,0.2
+E004,2024-05-04,Europe,Monitor,2,21000,0.1
+E005,2024-05-05,Europe,Headphones,8,5300,0.05
