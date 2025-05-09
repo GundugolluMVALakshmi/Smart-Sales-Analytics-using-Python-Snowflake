@@ -1,0 +1,6 @@
+Order_ID,Date,Region,Product,Quantity,Unit_Price,Discount
+A001,2024-05-01,Asia,Laptop,2,50000,0.1
+A002,2024-05-02,Asia,Smartphone,5,15000,0.05
+A003,2024-05-03,Asia,Tablet,3,25000,0
+A004,2024-05-04,Asia,Monitor,1,20000,0.15
+A005,2024-05-05,Asia,Headphones,7,5000,0.1
